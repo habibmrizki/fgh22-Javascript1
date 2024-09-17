@@ -1,6 +1,6 @@
 # Kumpulan Fungsi JavaScript (1)
 
-Proyek ini terdiri dari beberapa bagian kode yang menampilkan logika JavaScript dasar, termasuk perhitungan diskon berdasarkan total belanja, pencetakan angka, dan penggunaan spread operator dalam penggabungan array serta objek.
+Reposetory  ini terdiri dari beberapa bagian kode yang menampilkan logika JavaScript dasar, termasuk perhitungan diskon berdasarkan total belanja, pencetakan angka, dan penggunaan spread operator dalam penggabungan array serta objek.
 
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
